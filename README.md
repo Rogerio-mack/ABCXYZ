@@ -1,2 +1,24 @@
 # ABCXYZ
-ABCXYZ articles
+
+ABCXYZ References
+
+### Blogs, websites introdutórios
+
+* https://www.cgma.org/resources/tools/cost-transformation-model/abc-xyz-inventory-management.html
+* https://www.cgma.org/resources/tools/cost-transformation-model/xyz-inventory-management.html
+* https://abcsupplychain.com/abc-xyz-analyse/
+
+### Artigos
+
+Ver na pasta acima
+
+### Onde buscar e obter as referências dos artigos
+
+* https://www.researchgate.net/
+* https://www.semanticscholar.org/
+* https://scholar.google.com.br/
+
+> Exemplo:
+> 
+> Bulinski, James, C. Waszkiewicz and P. Buraczewski. “Utilization of ABC/XYZ analysis in stock planning in the enterprise.” Annals of Warsaw University of Life Sciences - SGGW, Agriculture (2013): 89-96.
+
