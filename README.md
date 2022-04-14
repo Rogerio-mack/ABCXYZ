@@ -8,9 +8,9 @@ ABCXYZ References
 * https://www.cgma.org/resources/tools/cost-transformation-model/xyz-inventory-management.html
 * https://abcsupplychain.com/abc-xyz-analyse/
 
-### Artigos
+### Artigos e Monografias
 
-Ver na pasta acima
+Ver na pasta acima. Sugestão: comecem selecionando 1 ou 2 monografias e 2-3 artigos de interesse.
 
 ### Onde buscar e obter as referências dos artigos
 
